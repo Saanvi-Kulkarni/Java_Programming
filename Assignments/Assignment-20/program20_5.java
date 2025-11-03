@@ -19,7 +19,7 @@ class Logic
             iNo = iNo / 10;
         }
 
-        System.out.println("Largest digit is: " + iMin);
+        System.out.println("Samllest digit is: " + iMin);
     }
 }
 
@@ -30,4 +30,5 @@ class Program
         Logic obj =  new Logic();
         obj.findSmallestDigit(45872);
     }
+
 }
