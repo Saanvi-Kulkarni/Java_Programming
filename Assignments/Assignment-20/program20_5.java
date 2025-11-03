@@ -19,7 +19,7 @@ class Logic
             iNo = iNo / 10;
         }
 
-        System.out.println("Samllest digit is: " + iMin);
+        System.out.println("Smallest digit is: " + iMin);
     }
 }
 
@@ -32,3 +32,4 @@ class Program
     }
 
 }
+
